@@ -1,8 +1,30 @@
 aid: edyoucated
 name: Edyoucated
-description: Edyoucated is a company surfaced as a portfolio company of earlybird and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Edyoucated is a German SaaS company offering an AI-powered corporate learning
+  and skills-management platform for mid-to-large enterprises. The product combines a
+  learning management / learning experience system (central management of training,
+  mandatory compliance training, seminar administration, AI-assisted content creation,
+  blended learning, and learning analytics) with skills management (skill cataloging,
+  assessments, gap analysis, expert identification, and career guidance) to give
+  organizations a common language for skills and personalized learning pathways. It
+  also offers consulting for custom skill-taxonomy development. Customers include
+  Deutsche Bahn, BASF, Shopware, and Finanz Informatik. Edyoucated is a portfolio
+  company of Earlybird Venture Capital. As of this profile the company publishes no
+  public developer/API surface, developer portal, OpenAPI, or documentation.
 url: https://raw.githubusercontent.com/api-evangelist/edyoucated/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/5d4c101671ecaf6f6eb30973/6212d3e2dd5786d93aad5fa0_edyoucated_logo--default--color--no_spacing.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +33,43 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Education
+- EdTech
+- Learning
+- LMS
+- Skills Management
+- Corporate Training
+- Talent Development
+- SaaS
+- Artificial Intelligence
 apis: []
+common:
+- type: DomainSecurity
+  url: security/edyoucated-domain-security.yml
+- type: Website
+  url: https://edyoucated.org
+- type: Blog
+  url: https://edyoucated.org/blog
+- type: Pricing
+  url: https://edyoucated.org/preise
+- type: SignUp
+  url: https://edyoucated.org/kostenlos-testen
+- type: Login
+  url: https://app.edyoucated.org/auth/login
+- type: TermsOfService
+  url: https://edyoucated.org/rechtliches/agb
+- type: PrivacyPolicy
+  url: https://edyoucated.org/rechtliches/datenschutz
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
