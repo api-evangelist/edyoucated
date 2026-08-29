@@ -13,6 +13,17 @@ description: >-
   company of Earlybird Venture Capital. As of this profile the company publishes no
   public developer/API surface, developer portal, OpenAPI, or documentation.
 url: https://raw.githubusercontent.com/api-evangelist/edyoucated/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
