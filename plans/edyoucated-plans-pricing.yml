@@ -1,0 +1,36 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://edyoucated.org/preise
+sources:
+- https://edyoucated.org/preise
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+  managed_tier: Business
+published: true
+note: German pricing page; staggered per-active-user pricing ('je mehr Menschen lernen, desto günstiger').
+  Minimum term 12 months, 30-day free trial. Add-ons (Inhaltsbibliothek, Compliance Automatisierung, Integrationen
+  & SSO) listed without prices.
+plan_count: 2
+currency: EUR
+plans:
+- name: Business
+  price_text: ab 7,60 € / Nutzer pro Monat
+  price: 7.6
+  currency: EUR
+  period: month
+  unit: Nutzer
+  included_quota: 'Alle vier Standard-Module: Learning Management, Skill Management, Compliance, Analytics'
+- name: Enterprise
+  price_text: Individuell, Angebot auf Anfrage
+  period: none
+  included_quota: Business-Funktionen plus Custom SLAs, bevorzugter Support, L&D-Beratung, Premium Onboarding,
+    persönliche Betreuung
