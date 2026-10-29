@@ -64,6 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Edyoucated is a company surfaced as a portfolio company of earlybird and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Edyoucated is a German SaaS company offering an AI-powered corporate learning and skills-management platform for mid-to-large enterprises. The product combines a learning management / learning experience system (central management of training, mandatory compliance training, seminar administration, AI-assisted content creation, blended learning, and learning analytics) with skills management (skill cataloging, assessments, gap analysis, expert identification, and career guidance) to give organizations a common language for skills and personalized learning pathways. It also offers consulting for custom skill-taxonomy development. Customers include Deutsche Bahn, BASF, Shopware, and Finanz Informatik. Edyoucated is a portfolio company of Earlybird Venture Capital. As of this profile the company publishes no public developer/API surface, developer portal, OpenAPI, or documentation.
 
-Backed by: earlybird
+**Areas:** Company · Education · EdTech · Learning · LMS · Skills Management · Corporate Training · Talent Development · Software-as-a-Service · Artificial Intelligence
+
+## Edyoucated on APIs.io
+
+Everything profiled for Edyoucated is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/edyoucated/](https://apis.io/providers/edyoucated/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Edyoucated Domain Security](https://apis.io/security/edyoucated/edyoucated-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Edyoucated Plans Pricing](https://apis.io/plans/edyoucated/edyoucated-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://edyoucated.org)
+- [Pricing](https://edyoucated.org/preise)
+- [Sign up](https://edyoucated.org/kostenlos-testen)
+- [Blog](https://edyoucated.org/blog)
+- [Terms of service](https://edyoucated.org/rechtliches/agb)
+- [Privacy policy](https://edyoucated.org/rechtliches/datenschutz)
+
+## API Evangelist rating
+
+**Kin Score 17.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 65.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/edyoucated/](https://apis.io/providers/edyoucated/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Edyoucated: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/edyoucated/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
